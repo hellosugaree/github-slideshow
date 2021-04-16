@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+```javascript
+// testing js markdown
+console.log("test");
+```
 Use the left arrow to go back!
